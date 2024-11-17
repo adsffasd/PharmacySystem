@@ -1,0 +1,33 @@
+﻿@model PharmacySystem.Models.ImpRepoDetail
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<div class="container mt-4">
+    <h1 class="text-center">Details</h1>
+
+    <div>
+        <h4>ImpRepoDetail</h4>
+        <hr />
+        <dl class="row">
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.Product)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.Product.Id)
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.ImpRepo)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.ImpRepo.Id)
+            </dd>
+        </dl>
+    </div>
+
+    <div class="text-center mt-3">
+        <a asp-action="Edit" asp-route-id="@Model?.Id" class="btn btn-warning">Edit</a>
+        <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+    </div>
+</div>

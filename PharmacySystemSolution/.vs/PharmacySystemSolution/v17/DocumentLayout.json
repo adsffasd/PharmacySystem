@@ -1,0 +1,231 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Four\\OOP\\CuoiKy\\PharmacySystemSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91F303B8-BDE8-4730-8F26-3334B6614E63}|PharmacySystem\\PharmacySystem.csproj|d:\\four\\oop\\cuoiky\\pharmacysystemsolution\\pharmacysystem\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{91F303B8-BDE8-4730-8F26-3334B6614E63}|PharmacySystem\\PharmacySystem.csproj|solutionrelative:pharmacysystem\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91F303B8-BDE8-4730-8F26-3334B6614E63}|PharmacySystem\\PharmacySystem.csproj|d:\\four\\oop\\cuoiky\\pharmacysystemsolution\\pharmacysystem\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91F303B8-BDE8-4730-8F26-3334B6614E63}|PharmacySystem\\PharmacySystem.csproj|solutionrelative:pharmacysystem\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91F303B8-BDE8-4730-8F26-3334B6614E63}|PharmacySystem\\PharmacySystem.csproj|d:\\four\\oop\\cuoiky\\pharmacysystemsolution\\pharmacysystem\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{91F303B8-BDE8-4730-8F26-3334B6614E63}|PharmacySystem\\PharmacySystem.csproj|solutionrelative:pharmacysystem\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91F303B8-BDE8-4730-8F26-3334B6614E63}|PharmacySystem\\PharmacySystem.csproj|d:\\four\\oop\\cuoiky\\pharmacysystemsolution\\pharmacysystem\\views\\customer\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{91F303B8-BDE8-4730-8F26-3334B6614E63}|PharmacySystem\\PharmacySystem.csproj|solutionrelative:pharmacysystem\\views\\customer\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91F303B8-BDE8-4730-8F26-3334B6614E63}|PharmacySystem\\PharmacySystem.csproj|d:\\four\\oop\\cuoiky\\pharmacysystemsolution\\pharmacysystem\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{91F303B8-BDE8-4730-8F26-3334B6614E63}|PharmacySystem\\PharmacySystem.csproj|solutionrelative:pharmacysystem\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91F303B8-BDE8-4730-8F26-3334B6614E63}|PharmacySystem\\PharmacySystem.csproj|d:\\four\\oop\\cuoiky\\pharmacysystemsolution\\pharmacysystem\\models\\shift.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91F303B8-BDE8-4730-8F26-3334B6614E63}|PharmacySystem\\PharmacySystem.csproj|solutionrelative:pharmacysystem\\models\\shift.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91F303B8-BDE8-4730-8F26-3334B6614E63}|PharmacySystem\\PharmacySystem.csproj|d:\\four\\oop\\cuoiky\\pharmacysystemsolution\\pharmacysystem\\views\\account\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{91F303B8-BDE8-4730-8F26-3334B6614E63}|PharmacySystem\\PharmacySystem.csproj|solutionrelative:pharmacysystem\\views\\account\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91F303B8-BDE8-4730-8F26-3334B6614E63}|PharmacySystem\\PharmacySystem.csproj|d:\\four\\oop\\cuoiky\\pharmacysystemsolution\\pharmacysystem\\views\\shared\\_layoutpharmacysystem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{91F303B8-BDE8-4730-8F26-3334B6614E63}|PharmacySystem\\PharmacySystem.csproj|solutionrelative:pharmacysystem\\views\\shared\\_layoutpharmacysystem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91F303B8-BDE8-4730-8F26-3334B6614E63}|PharmacySystem\\PharmacySystem.csproj|d:\\four\\oop\\cuoiky\\pharmacysystemsolution\\pharmacysystem\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91F303B8-BDE8-4730-8F26-3334B6614E63}|PharmacySystem\\PharmacySystem.csproj|solutionrelative:pharmacysystem\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91F303B8-BDE8-4730-8F26-3334B6614E63}|PharmacySystem\\PharmacySystem.csproj|d:\\four\\oop\\cuoiky\\pharmacysystemsolution\\pharmacysystem\\controllers\\shiftcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91F303B8-BDE8-4730-8F26-3334B6614E63}|PharmacySystem\\PharmacySystem.csproj|solutionrelative:pharmacysystem\\controllers\\shiftcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91F303B8-BDE8-4730-8F26-3334B6614E63}|PharmacySystem\\PharmacySystem.csproj|d:\\four\\oop\\cuoiky\\pharmacysystemsolution\\pharmacysystem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{91F303B8-BDE8-4730-8F26-3334B6614E63}|PharmacySystem\\PharmacySystem.csproj|solutionrelative:pharmacysystem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91F303B8-BDE8-4730-8F26-3334B6614E63}|PharmacySystem\\PharmacySystem.csproj|d:\\four\\oop\\cuoiky\\pharmacysystemsolution\\pharmacysystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91F303B8-BDE8-4730-8F26-3334B6614E63}|PharmacySystem\\PharmacySystem.csproj|solutionrelative:pharmacysystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Four\\OOP\\CuoiKy\\PharmacySystemSolution\\PharmacySystem\\Views\\Account\\Index.cshtml",
+              "RelativeDocumentMoniker": "PharmacySystem\\Views\\Account\\Index.cshtml",
+              "ToolTip": "D:\\Four\\OOP\\CuoiKy\\PharmacySystemSolution\\PharmacySystem\\Views\\Account\\Index.cshtml",
+              "RelativeToolTip": "PharmacySystem\\Views\\Account\\Index.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-16T18:02:49.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Four\\OOP\\CuoiKy\\PharmacySystemSolution\\PharmacySystem\\Views\\Account\\Delete.cshtml",
+              "RelativeDocumentMoniker": "PharmacySystem\\Views\\Account\\Delete.cshtml",
+              "ToolTip": "D:\\Four\\OOP\\CuoiKy\\PharmacySystemSolution\\PharmacySystem\\Views\\Account\\Delete.cshtml",
+              "RelativeToolTip": "PharmacySystem\\Views\\Account\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T07:02:52.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Four\\OOP\\CuoiKy\\PharmacySystemSolution\\PharmacySystem\\Views\\Customer\\Delete.cshtml",
+              "RelativeDocumentMoniker": "PharmacySystem\\Views\\Customer\\Delete.cshtml",
+              "ToolTip": "D:\\Four\\OOP\\CuoiKy\\PharmacySystemSolution\\PharmacySystem\\Views\\Customer\\Delete.cshtml",
+              "RelativeToolTip": "PharmacySystem\\Views\\Customer\\Delete.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADAAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T07:02:40.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "D:\\Four\\OOP\\CuoiKy\\PharmacySystemSolution\\PharmacySystem\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "PharmacySystem\\Controllers\\CustomerController.cs",
+              "ToolTip": "D:\\Four\\OOP\\CuoiKy\\PharmacySystemSolution\\PharmacySystem\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "PharmacySystem\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAWwHoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T07:02:09.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Shift.cs",
+              "DocumentMoniker": "D:\\Four\\OOP\\CuoiKy\\PharmacySystemSolution\\PharmacySystem\\Models\\Shift.cs",
+              "RelativeDocumentMoniker": "PharmacySystem\\Models\\Shift.cs",
+              "ToolTip": "D:\\Four\\OOP\\CuoiKy\\PharmacySystemSolution\\PharmacySystem\\Models\\Shift.cs",
+              "RelativeToolTip": "PharmacySystem\\Models\\Shift.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T21:08:17.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Four\\OOP\\CuoiKy\\PharmacySystemSolution\\PharmacySystem\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "PharmacySystem\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Four\\OOP\\CuoiKy\\PharmacySystemSolution\\PharmacySystem\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "PharmacySystem\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAFkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-03T20:33:50.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Four\\OOP\\CuoiKy\\PharmacySystemSolution\\PharmacySystem\\Program.cs",
+              "RelativeDocumentMoniker": "PharmacySystem\\Program.cs",
+              "ToolTip": "D:\\Four\\OOP\\CuoiKy\\PharmacySystemSolution\\PharmacySystem\\Program.cs",
+              "RelativeToolTip": "PharmacySystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T20:16:02.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\Four\\OOP\\CuoiKy\\PharmacySystemSolution\\PharmacySystem\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "PharmacySystem\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\Four\\OOP\\CuoiKy\\PharmacySystemSolution\\PharmacySystem\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "PharmacySystem\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAK4AAAAAAAAAAAAIwL8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T20:15:07.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Four\\OOP\\CuoiKy\\PharmacySystemSolution\\PharmacySystem\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "PharmacySystem\\Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\Four\\OOP\\CuoiKy\\PharmacySystemSolution\\PharmacySystem\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "PharmacySystem\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-03T20:15:01.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Four\\OOP\\CuoiKy\\PharmacySystemSolution\\PharmacySystem\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "PharmacySystem\\Views\\Product\\Delete.cshtml",
+              "ToolTip": "D:\\Four\\OOP\\CuoiKy\\PharmacySystemSolution\\PharmacySystem\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "PharmacySystem\\Views\\Product\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T07:03:03.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_LayoutPharmacySystem.cshtml",
+              "DocumentMoniker": "D:\\Four\\OOP\\CuoiKy\\PharmacySystemSolution\\PharmacySystem\\Views\\Shared\\_LayoutPharmacySystem.cshtml",
+              "RelativeDocumentMoniker": "PharmacySystem\\Views\\Shared\\_LayoutPharmacySystem.cshtml",
+              "ToolTip": "D:\\Four\\OOP\\CuoiKy\\PharmacySystemSolution\\PharmacySystem\\Views\\Shared\\_LayoutPharmacySystem.cshtml",
+              "RelativeToolTip": "PharmacySystem\\Views\\Shared\\_LayoutPharmacySystem.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADsAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-03T20:09:04.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ShiftController.cs",
+              "DocumentMoniker": "D:\\Four\\OOP\\CuoiKy\\PharmacySystemSolution\\PharmacySystem\\Controllers\\ShiftController.cs",
+              "RelativeDocumentMoniker": "PharmacySystem\\Controllers\\ShiftController.cs",
+              "ToolTip": "D:\\Four\\OOP\\CuoiKy\\PharmacySystemSolution\\PharmacySystem\\Controllers\\ShiftController.cs",
+              "RelativeToolTip": "PharmacySystem\\Controllers\\ShiftController.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAqwI0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T21:08:21.695Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

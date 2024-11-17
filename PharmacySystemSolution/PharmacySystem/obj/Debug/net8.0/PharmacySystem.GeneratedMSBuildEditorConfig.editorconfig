@@ -1,0 +1,303 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = PharmacySystem
+build_property.RootNamespace = PharmacySystem
+build_property.ProjectDir = D:\Four\OOP\CuoiKy\PharmacySystemSolution\PharmacySystem\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Four\OOP\CuoiKy\PharmacySystemSolution\PharmacySystem
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Four/OOP/CuoiKy/PharmacySystemSolution/PharmacySystem/Views/Account/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Four/OOP/CuoiKy/PharmacySystemSolution/PharmacySystem/Views/Account/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Four/OOP/CuoiKy/PharmacySystemSolution/PharmacySystem/Views/Account/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Four/OOP/CuoiKy/PharmacySystemSolution/PharmacySystem/Views/Account/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Four/OOP/CuoiKy/PharmacySystemSolution/PharmacySystem/Views/Account/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Four/OOP/CuoiKy/PharmacySystemSolution/PharmacySystem/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Four/OOP/CuoiKy/PharmacySystemSolution/PharmacySystem/Views/Bill/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmlsbFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Four/OOP/CuoiKy/PharmacySystemSolution/PharmacySystem/Views/Bill/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmlsbFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Four/OOP/CuoiKy/PharmacySystemSolution/PharmacySystem/Views/Bill/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmlsbFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Four/OOP/CuoiKy/PharmacySystemSolution/PharmacySystem/Views/Bill/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmlsbFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Four/OOP/CuoiKy/PharmacySystemSolution/PharmacySystem/Views/Bill/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmlsbFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Four/OOP/CuoiKy/PharmacySystemSolution/PharmacySystem/Views/Category/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Four/OOP/CuoiKy/PharmacySystemSolution/PharmacySystem/Views/Category/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Four/OOP/CuoiKy/PharmacySystemSolution/PharmacySystem/Views/Category/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Four/OOP/CuoiKy/PharmacySystemSolution/PharmacySystem/Views/Category/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Four/OOP/CuoiKy/PharmacySystemSolution/PharmacySystem/Views/Category/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Four/OOP/CuoiKy/PharmacySystemSolution/PharmacySystem/Views/Customer/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Four/OOP/CuoiKy/PharmacySystemSolution/PharmacySystem/Views/Customer/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Four/OOP/CuoiKy/PharmacySystemSolution/PharmacySystem/Views/Customer/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Four/OOP/CuoiKy/PharmacySystemSolution/PharmacySystem/Views/Customer/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Four/OOP/CuoiKy/PharmacySystemSolution/PharmacySystem/Views/Customer/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Four/OOP/CuoiKy/PharmacySystemSolution/PharmacySystem/Views/ExpRepo/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhwUmVwb1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Four/OOP/CuoiKy/PharmacySystemSolution/PharmacySystem/Views/ExpRepo/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhwUmVwb1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Four/OOP/CuoiKy/PharmacySystemSolution/PharmacySystem/Views/ExpRepo/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhwUmVwb1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Four/OOP/CuoiKy/PharmacySystemSolution/PharmacySystem/Views/ExpRepo/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhwUmVwb1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Four/OOP/CuoiKy/PharmacySystemSolution/PharmacySystem/Views/ExpRepo/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhwUmVwb1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Four/OOP/CuoiKy/PharmacySystemSolution/PharmacySystem/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Four/OOP/CuoiKy/PharmacySystemSolution/PharmacySystem/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Four/OOP/CuoiKy/PharmacySystemSolution/PharmacySystem/Views/ImpRepoDetail/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW1wUmVwb0RldGFpbFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Four/OOP/CuoiKy/PharmacySystemSolution/PharmacySystem/Views/ImpRepoDetail/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW1wUmVwb0RldGFpbFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Four/OOP/CuoiKy/PharmacySystemSolution/PharmacySystem/Views/ImpRepoDetail/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW1wUmVwb0RldGFpbFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Four/OOP/CuoiKy/PharmacySystemSolution/PharmacySystem/Views/ImpRepoDetail/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW1wUmVwb0RldGFpbFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Four/OOP/CuoiKy/PharmacySystemSolution/PharmacySystem/Views/ImpRepoDetail/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW1wUmVwb0RldGFpbFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Four/OOP/CuoiKy/PharmacySystemSolution/PharmacySystem/Views/ImpRepo/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW1wUmVwb1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Four/OOP/CuoiKy/PharmacySystemSolution/PharmacySystem/Views/ImpRepo/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW1wUmVwb1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Four/OOP/CuoiKy/PharmacySystemSolution/PharmacySystem/Views/ImpRepo/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW1wUmVwb1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Four/OOP/CuoiKy/PharmacySystemSolution/PharmacySystem/Views/ImpRepo/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW1wUmVwb1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Four/OOP/CuoiKy/PharmacySystemSolution/PharmacySystem/Views/ImpRepo/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW1wUmVwb1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Four/OOP/CuoiKy/PharmacySystemSolution/PharmacySystem/Views/Inventory/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52ZW50b3J5XENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Four/OOP/CuoiKy/PharmacySystemSolution/PharmacySystem/Views/Inventory/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52ZW50b3J5XERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Four/OOP/CuoiKy/PharmacySystemSolution/PharmacySystem/Views/Inventory/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52ZW50b3J5XERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Four/OOP/CuoiKy/PharmacySystemSolution/PharmacySystem/Views/Inventory/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52ZW50b3J5XEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Four/OOP/CuoiKy/PharmacySystemSolution/PharmacySystem/Views/Inventory/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52ZW50b3J5XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Four/OOP/CuoiKy/PharmacySystemSolution/PharmacySystem/Views/Product/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Four/OOP/CuoiKy/PharmacySystemSolution/PharmacySystem/Views/Product/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Four/OOP/CuoiKy/PharmacySystemSolution/PharmacySystem/Views/Product/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Four/OOP/CuoiKy/PharmacySystemSolution/PharmacySystem/Views/Product/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Four/OOP/CuoiKy/PharmacySystemSolution/PharmacySystem/Views/Product/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Four/OOP/CuoiKy/PharmacySystemSolution/PharmacySystem/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Four/OOP/CuoiKy/PharmacySystemSolution/PharmacySystem/Views/Shared/_LayoutPharmacySystem.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRQaGFybWFjeVN5c3RlbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Four/OOP/CuoiKy/PharmacySystemSolution/PharmacySystem/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Four/OOP/CuoiKy/PharmacySystemSolution/PharmacySystem/Views/Shift/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hpZnRcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Four/OOP/CuoiKy/PharmacySystemSolution/PharmacySystem/Views/Shift/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hpZnRcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Four/OOP/CuoiKy/PharmacySystemSolution/PharmacySystem/Views/Shift/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hpZnRcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Four/OOP/CuoiKy/PharmacySystemSolution/PharmacySystem/Views/Shift/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hpZnRcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Four/OOP/CuoiKy/PharmacySystemSolution/PharmacySystem/Views/Shift/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hpZnRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Four/OOP/CuoiKy/PharmacySystemSolution/PharmacySystem/Views/Supplier/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VwcGxpZXJcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Four/OOP/CuoiKy/PharmacySystemSolution/PharmacySystem/Views/Supplier/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VwcGxpZXJcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Four/OOP/CuoiKy/PharmacySystemSolution/PharmacySystem/Views/Supplier/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VwcGxpZXJcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Four/OOP/CuoiKy/PharmacySystemSolution/PharmacySystem/Views/Supplier/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VwcGxpZXJcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Four/OOP/CuoiKy/PharmacySystemSolution/PharmacySystem/Views/Supplier/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VwcGxpZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Four/OOP/CuoiKy/PharmacySystemSolution/PharmacySystem/Views/WorkDay/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya0RheVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Four/OOP/CuoiKy/PharmacySystemSolution/PharmacySystem/Views/WorkDay/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya0RheVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Four/OOP/CuoiKy/PharmacySystemSolution/PharmacySystem/Views/WorkDay/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya0RheVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Four/OOP/CuoiKy/PharmacySystemSolution/PharmacySystem/Views/WorkDay/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya0RheVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Four/OOP/CuoiKy/PharmacySystemSolution/PharmacySystem/Views/WorkDay/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya0RheVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Four/OOP/CuoiKy/PharmacySystemSolution/PharmacySystem/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Four/OOP/CuoiKy/PharmacySystemSolution/PharmacySystem/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Four/OOP/CuoiKy/PharmacySystemSolution/PharmacySystem/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ykhxejnh17

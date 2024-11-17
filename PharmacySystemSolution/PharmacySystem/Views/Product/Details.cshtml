@@ -1,0 +1,55 @@
+﻿@model PharmacySystem.Models.Product
+
+@{
+    ViewData["Title"] = "Product Details";
+}
+
+<h1 class="text-center">Product Details</h1>
+
+<div class="container mt-4">
+    <h4 class="text-center">Product Information</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-3">
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+        <dd class="col-sm-9">
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+        <dt class="col-sm-3">
+            @Html.DisplayNameFor(model => model.Description)
+        </dt>
+        <dd class="col-sm-9">
+            @Html.DisplayFor(model => model.Description)
+        </dd>
+        <dt class="col-sm-3">
+            @Html.DisplayNameFor(model => model.Price)
+        </dt>
+        <dd class="col-sm-9">
+            @Html.DisplayFor(model => model.Price)
+        </dd>
+        <dt class="col-sm-3">
+            @Html.DisplayNameFor(model => model.ExpiryDate)
+        </dt>
+        <dd class="col-sm-9">
+            @Html.DisplayFor(model => model.ExpiryDate)
+        </dd>
+        <dt class="col-sm-3">
+            @Html.DisplayNameFor(model => model.Manufacturer)
+        </dt>
+        <dd class="col-sm-9">
+            @Html.DisplayFor(model => model.Manufacturer)
+        </dd>
+        <dt class="col-sm-3">
+            @Html.DisplayNameFor(model => model.Category)
+        </dt>
+        <dd class="col-sm-9">
+            @Html.DisplayFor(model => model.Category.Name) <!-- Hiển thị tên danh mục thay vì ID -->
+        </dd>
+    </dl>
+</div>
+
+<div class="text-center mt-4">
+    <a asp-action="Edit" asp-route-id="@Model?.Id" class="btn btn-warning">Edit</a>
+    <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+</div>

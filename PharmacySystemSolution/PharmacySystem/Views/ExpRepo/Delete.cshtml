@@ -1,0 +1,47 @@
+﻿@model PharmacySystem.Models.ExpRepo
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<div class="container mt-4">
+    <h1 class="text-center">Delete</h1>
+
+    <h3 class="text-center">Are you sure you want to delete this?</h3>
+    <div class="row">
+        <h4 class="text-center">ExpRepo</h4>
+        <hr />
+        <dl class="row">
+            <dt class="col-sm-3">
+                @Html.DisplayNameFor(model => model.Name)
+            </dt>
+            <dd class="col-sm-9">
+                @Html.DisplayFor(model => model.Name)
+            </dd>
+            <dt class="col-sm-3">
+                @Html.DisplayNameFor(model => model.Status)
+            </dt>
+            <dd class="col-sm-9">
+                @Html.DisplayFor(model => model.Status)
+            </dd>
+            <dt class="col-sm-3">
+                @Html.DisplayNameFor(model => model.Quantity)
+            </dt>
+            <dd class="col-sm-9">
+                @Html.DisplayFor(model => model.Quantity)
+            </dd>
+            <dt class="col-sm-3">
+                @Html.DisplayNameFor(model => model.Product)
+            </dt>
+            <dd class="col-sm-9">
+                @Html.DisplayFor(model => model.Product.Name)
+            </dd>
+        </dl>
+    </div>
+
+    <form asp-action="Delete" class="text-center">
+        <input type="hidden" asp-for="Id" />
+        <button type="submit" class="btn btn-danger">Delete</button>
+        <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+    </form>
+</div>
